@@ -7,4 +7,5 @@ weight2 = int (weight)
 result = (weight2 / (height2 * height2))
 
 
-print  (int(result))
+print  ("your BMI is")
+print (int(result))
