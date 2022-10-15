@@ -2,7 +2,6 @@
 height = float(input("enter your height in m: "))
 weight = float(input("enter your weight in kg: "))
 
-
 height2 = float(height)
 weight2 = float (weight)
 result = (weight2 / (height2 * height2))
