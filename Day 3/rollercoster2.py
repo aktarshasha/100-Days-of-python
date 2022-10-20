@@ -15,7 +15,7 @@ if height >= 120 :
         print("adult tickets are $10")
     elif age >= 45 and age<= 55 :
         print("adult tickets are $0")
-        wants = input("do you want photos Y or N. ")
+        wants = input("do you want photos 'Y' or N. ")
     if wants == "Y" :
        actual_bill = bill+3
        print(f"you have to pay ${actual_bill}")

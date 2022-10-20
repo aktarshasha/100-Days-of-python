@@ -28,7 +28,8 @@ scissors = '''
 
 
 
-choice=input("What do you choose? Type 0 for Rock,1 for paper,2 for scissors ")
+choice=input("What do you choose? Type 0 for Rock,1 for paper,2 for scissors\n")
+
 
 print("you choose")
 if choice == '0':
@@ -66,4 +67,3 @@ elif choice=='1' and c_choice==2:
     print("you loose!")
 elif choice==c_choice:
     print("its a draw")
-    
