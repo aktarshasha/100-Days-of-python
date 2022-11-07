@@ -1,7 +1,5 @@
-mates=["suhail", "shasha", "aymen"]
-for hehe in mates:
-    print(hehe,hehe)
-    #print(hehe + "lassan")
-#print("samaj gaya mai")
-#commit
-#
+patthey =["shasha", "suhail", "aymen"]
+for pattha in patthey:
+    print(pattha)
+    print(pattha + " hawla hai")
+print(patthey)
